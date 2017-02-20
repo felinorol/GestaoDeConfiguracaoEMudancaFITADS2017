@@ -1,5 +1,5 @@
 #gcm-ex4
 #Exercicio4
 # GestaoDeConfiguracao
-Esta foi a lateração feita no GCM-EX4
+Esta foi a ateração feita no GCM-EX4
 #Autor Felinorol
