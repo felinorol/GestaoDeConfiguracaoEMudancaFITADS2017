@@ -1,5 +1,5 @@
-#Nome: Ronaldo FN
-#Empresa: Faculdade Impacta de Tecnologia
-#Funcao: Aluno
-# GestaoDeConfiguracaoEMudancaFITADS2017
-Curso de Analise e Desenvolvimento de Sistemas Matéria de Gestão de Configuração e Mudancas 1 Semestre de 2017
+#gcm-ex4
+#Exercicio4
+# GestaoDeConfiguracao
+Exercicio 4 de GCM
+#Autor Felinorol by RonaldoFN
